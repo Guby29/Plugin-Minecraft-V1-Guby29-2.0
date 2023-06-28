@@ -1,0 +1,20 @@
+name: MonPlugin
+version: 1.0
+author: guby
+main: fr.guby.plugin1.Main
+commands:
+  info:
+    description: Ceci est une info
+    permission: info.use
+  test:
+    description: Ceci est une commande de test
+    permission: test.use
+  alert:
+    description: Ceci est un brodcast custom
+    permission: alert.use
+  spawn:
+    description: Ceci est une commande pour se tp au spawn
+    permission: spawn.use
+  server:
+    description: Ceci est une commande d'info sur le seveur
+    permission: server.use

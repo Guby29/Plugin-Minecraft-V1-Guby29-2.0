@@ -1,0 +1,16 @@
+messages:
+  #message lots d'un /test'
+  test: "&6 Bravo tu as reussi &9 le test"
+  
+teleportation:
+  x:
+    id: -101.456
+  y:
+    id: 68
+  z:
+    id: -3.402   
+
+badwords:
+- "merde"
+- "flutte"
+- "cheval"
